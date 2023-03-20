@@ -1,4 +1,5 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3386449&assignment_repo_type=AssignmentRepo)
+This was originally a school project, below is the original README file that goes over what is to be expected from the program, as well as what aspects we were graded on. Additionally, there is a link to a video that we had to make, showing that the program was indeed working.
+
 # CIT 127 - Project 02 - Student Directed Project
 
 **Version:** 10/13/2020
